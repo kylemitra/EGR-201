@@ -1,2 +1,2 @@
 # EGR201
-Mechanics of Solids
+MATLAB Scripts from Mechanics of Solids S18
